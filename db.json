@@ -1,3 +1,28 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi i am harish",
+      "id": "a825fec5-51ec-435e-a196-c7eb3f0857e5",
+      "createdAt": "2025-07-12T21:44:13.702Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Harish! How can I assist you today?",
+      "id": "72aec577-345f-48f9-8f09-e743af95c158",
+      "createdAt": "2025-07-12T21:44:14.694Z"
+    },
+    {
+      "role": "user",
+      "content": "whats my name",
+      "id": "cb6e7059-c740-4bbb-978d-8d3ae6a1ef0c",
+      "createdAt": "2025-07-12T21:44:22.132Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Your name is Harish. How can I help you today?",
+      "id": "01c582da-5148-49f7-b00e-d383ab6b1a2e",
+      "createdAt": "2025-07-12T21:44:22.997Z"
+    }
+  ]
 }
